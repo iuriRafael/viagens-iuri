@@ -1,0 +1,39 @@
+body{
+  background-color: #c7e6fd ;
+}
+#img{
+  height: 30vh;
+  margin-left: 20%;
+  margin-top: 40%;
+  margin-bottom: 16%;
+}
+
+.btn{
+  padding: 2%;
+  width: 55vw;
+  height: 5vh;
+  margin-left: 23%;
+  margin-top: 5%;
+  border-radius: 10px;
+  background-color:  #10d4ea;
+  color:#fff;
+  font-family:'Times New Roman', Times, serif;
+  font-size: 1.2rem;
+}
+#botao{
+  margin-top: -15%;
+  margin-top: 3%;
+}
+h1{
+  color: #000;
+  font-size: 1.2rem;
+  margin-left: 37%;
+}
+
+.midia {
+  display: flex;
+  float: left;
+  margin-top: 40px;
+  margin-left: 50px;
+}
+
